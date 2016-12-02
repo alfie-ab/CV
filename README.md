@@ -72,4 +72,4 @@ A 12-week intensive development bootcamp, emphasising:
 ## Hobbies and Interests
 
 - **Sport:** Play five-a-side football regularly, and do long cycles over the weekend
-- **Pets** Have two dogs called Bungle and Niffler and two cats named Amber and Coda.
+- **Pets** I have two dogs called Bungle and Niffler and two cats named Amber and Coda.
