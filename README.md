@@ -2,7 +2,9 @@
 
 I am a full-stack developer and comfortable in both the back-end and front-end sides of programming. I am an enthusiastic, driven and analytical person. I want to work for a company that has a strong set of core values, with a group of like-minded people working towards a goal that I can get behind.
 
-I have taken a roundabout route on my way to software development. Although I had always possessed an interest in the inner workings of a computer, along with an attachment to the mathematical side of education, I ended up pursuing history at university. Throughout my years at UCL however, I began to realise that what I truly wanted was a profession that satisfied my need for both a constantly changing and challenging work environment. I researched and then came to be enamoured with coding - a subject that had always intrigued me but, until recently, remained unexplored.  I therefore enrolled in Europe's leading development bootcamp: Makers Academy.
+I have taken a roundabout route on my way to software development. Although I had always possessed an interest in the inner workings of a computer, along with an attachment to the mathematical side of education, I ended up pursuing history at university. Throughout my years at UCL however, I came to realise that what I truly wanted was a career that satisfied my desire for both a constantly changing and challenging work environment. I researched, and then came to be enamoured with, coding - a subject that had always intrigued me but, until recently, remained unexplored.  I therefore enrolled in Europe's leading development bootcamp: Makers Academy.
+
+At Makers I knew I had made the right choice. I loved process of coding, and the possibilities that it provided. The satisfaction of passing a tricky bit of code, learning how things that I use everyday actually worked and the ability to actively create projects, websites and programmes, all combined in the realisation that this was the career I wanted to pursue.
 
 
 
@@ -30,7 +32,7 @@ The 3 month, intensive nature of the Maker's experience ensures you graduate a f
 
 #### Curious
 
-We decided to build our final project in node, instead of rails. Node is not explicitly taught on the course, but I had learned it as a way to embrace the whole experience. Indeed, over my time at Maker's I made a special effort to look up and engage with programming libraries and frameworks, such as Paper JS, that were not required, but interest me regardless. As of now, I am independently learning React JS as a way to improve my front-end capabilities.  
+We decided to build our final project in Node JS, instead of rails. Node is not explicitly taught on the course, but I had learned it as a way to embrace the whole experience. Indeed, over my time at Maker's I made a special effort to look up and engage with programming libraries and frameworks, such as Paper JS, that were not required, but interest me regardless. As of now, I am independently learning Java as a way to improve my all-round programming experience.
 
 ## Education
 
@@ -70,3 +72,4 @@ A 12-week intensive development bootcamp, emphasising:
 ## Hobbies and Interests
 
 - **Sport:** Play five-a-side football regularly, and do long cycles over the weekend
+- **Pets** Have two dogs called Bungle and Niffler and two cats named Amber and Coda.
