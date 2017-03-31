@@ -2,9 +2,9 @@
 
 I am a full-stack developer and comfortable in both the back-end and front-end sides of programming. I am an enthusiastic, driven and analytical person. I want to work for a company that has a strong set of core values, with a group of like-minded people working towards a goal that I can get behind.
 
-I have taken a roundabout route on my way to software development. Although I had always possessed an interest in the inner workings of a computer, along with an attachment to the mathematical side of education, I ended up pursuing history at university. Throughout my years at UCL however, I came to realise that what I truly wanted was a career that satisfied my desire for both a constantly changing and challenging work environment. I researched, and then came to be enamoured with, coding - a subject that had always intrigued me but, until recently, remained unexplored.  I therefore enrolled in Europe's leading development bootcamp: Makers Academy.
+After finishing my History Degree at UCL I enrolled at Makers academy: Europe's leading coding bootcamp. At Makers I knew I had made the right decision to pick coding over academics. I loved process of coding, and the possibilities that it provided. The satisfaction of passing a tricky bit of code, learning how things that I use everyday actually worked and the ability to actively create projects, websites and programmes, all combined in the realisation that this was the career I wanted to pursue.
 
-At Makers I knew I had made the right choice. I loved process of coding, and the possibilities that it provided. The satisfaction of passing a tricky bit of code, learning how things that I use everyday actually worked and the ability to actively create projects, websites and programmes, all combined in the realisation that this was the career I wanted to pursue.
+Since Makers I have been working in a full-time freelance role at a start up called Hippocampus. I came in right at the start and was heavily involved in choosing the technologies (React Native and Firebase) along with all subsequent technical decisions. It gave me great experience in mobile development, meeting deadlines and Agile development.
 
 
 
@@ -16,6 +16,9 @@ For a complete list, see my [Github](https://github.com/alfie-ab)
 | ------------- |:-------------:| -----:|
 | [PLYR2](https://github.com/peter-miklos/plyr2)      | A mobile-friendly, social media platform that allows users to create and join sports events in their area | Javascript, Node JS, Express, PostgreSQL, Sequelize, Mocha |
 | [Marmite](https://github.com/alfie-ab/marmite_project)      | A single page Javascript app that allows the user to write and save notes. Testing framework, and JQuery-esque library written entirely from scratch in pure Javascript.       |   Javascript |
+
+
+
 
 
 ## Skills
@@ -30,9 +33,9 @@ The get the most out of the Maker's experience, it was imperative that you were 
 
 The 3 month, intensive nature of the Maker's experience ensures you graduate a fast learner. Whether it was learning the basics of Javascript in a week, or having to program a rock, paper, scissors [game](https://github.com/alfie-ab/rps-challenge) after only three weeks of coding experience, the whole experience allowed me to improve my ability in adapting to, embracing and learning new technologies.
 
-#### Curious
+#### Mobile development
 
-We decided to build our final project in Node JS, instead of rails. Node is not explicitly taught on the course, but I had learned it as a way to embrace the whole experience. Indeed, over my time at Maker's I made a special effort to look up and engage with programming libraries and frameworks, such as Paper JS, that were not required, but interest me regardless. As of now, I am independently learning Java as a way to improve my all-round programming experience.
+From December up until April I developed an app called Hippocampus. The app, which works on both Android and iOS, aims to make doctors lives easier by creating an environment in which they can store, review and share their cases. It was my first experience of mobile development and I managed, with my partner, to get the app delivered within three months. The app was written in React-Native and has a Firebase back-end.
 
 ## Education
 
@@ -69,7 +72,9 @@ A 12-week intensive development bootcamp, emphasising:
 **October Films** (June '14 - August '14)    
 *Summer intern*  
 
+**Hippocampus** (December '16 - April '17)    
+*Freelance lead developer*  
+
 ## Hobbies and Interests
 
 - **Sport:** Play five-a-side football regularly, and do long cycles over the weekend
-- **Pets** I have two dogs called Bungle and Niffler and two cats named Amber and Coda.
